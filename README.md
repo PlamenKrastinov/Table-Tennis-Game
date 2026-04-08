@@ -1,1 +1,2 @@
 # Table-Tennis-Game
+This project is a simple Pong game built with Python’s turtle module. It features two player-controlled paddles, a moving ball with collision detection, and a scoring system. Players control the paddles using the keyboard, while the game tracks scores and includes a pause/resume function. The game runs in a continuous loop, updating positions and handling interactions in real time.
